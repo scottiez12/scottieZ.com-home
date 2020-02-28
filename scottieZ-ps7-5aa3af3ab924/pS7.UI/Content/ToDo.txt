@@ -1,0 +1,20 @@
+﻿
+
+
+Get a list of links together for classmates, and stuff you like, and ultimately GitHub once we get some stuff posted on there
+	make sure the project links dont get redundant in dropdown links, keep them in the portfolio section
+
+Contact Confirmation.. lets figure out how to do this with JS or angular or something so it gives a popup instead of a different view
+
+dont forget to do target: _blank for all the links AND files.. IE resume, etc.
+
+keep an eye on the page flow, taking out the "facts" section made it look a little weird.. may not be a big deal at the end of the day though
+
+maybe take all the a's out of the skills (services..) section. I could see this getting wonky on mobile and it's just kind of misleading in general
+
+
+
+need to test contact page once we get it on the DNS
+
+need to do the dropdown stuff at the top, and change the pic on the about page
+Fix the image on the about page, change it to something else, or a picture of yourself.
